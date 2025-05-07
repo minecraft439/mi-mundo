@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:badlands": "2025-05-07 02:24:52 +0000",
       "minecraft:savanna_plateau": "2025-05-07 02:16:11 +0000",
       "minecraft:beach": "2025-05-07 01:48:23 +0000",
       "minecraft:forest": "2025-05-07 00:19:18 +0000",
@@ -15,6 +16,7 @@
       "minecraft:lukewarm_ocean": "2025-05-07 01:47:58 +0000",
       "minecraft:stony_shore": "2025-05-07 00:43:38 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-07 00:20:49 +0000",
+      "minecraft:eroded_badlands": "2025-05-07 02:23:40 +0000",
       "minecraft:desert": "2025-05-07 01:56:30 +0000",
       "minecraft:deep_dark": "2025-05-07 00:40:42 +0000",
       "minecraft:jungle": "2025-05-07 01:48:36 +0000",
@@ -22,6 +24,7 @@
       "minecraft:birch_forest": "2025-05-07 00:35:11 +0000",
       "minecraft:savanna": "2025-05-07 01:05:44 +0000",
       "minecraft:bamboo_jungle": "2025-05-07 01:48:28 +0000",
+      "minecraft:wooded_badlands": "2025-05-07 02:25:41 +0000",
       "minecraft:plains": "2025-05-07 00:13:30 +0000",
       "minecraft:warm_ocean": "2025-05-07 01:53:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-07 01:51:27 +0000"
@@ -1507,13 +1510,32 @@
   },
   "minecraft:husbandry/whole_pack": {
     "criteria": {
-      "minecraft:rusty": "2025-05-07 02:10:47 +0000"
+      "minecraft:rusty": "2025-05-07 02:10:47 +0000",
+      "minecraft:striped": "2025-05-07 02:25:55 +0000"
     },
     "done": false
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2025-05-07 02:30:32 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-05-07 02:31:32 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-07 01:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-05-07 02:30:32 +0000"
     },
     "done": true
   },
