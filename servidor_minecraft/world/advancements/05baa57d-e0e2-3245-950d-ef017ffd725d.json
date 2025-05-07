@@ -7,17 +7,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:old_growth_birch_forest": "2025-05-07 00:24:50 +0000",
       "minecraft:dark_forest": "2025-05-07 00:27:47 +0000",
       "minecraft:forest": "2025-05-07 00:17:01 +0000",
       "minecraft:sparse_jungle": "2025-05-07 00:23:25 +0000",
-      "minecraft:jungle": "2025-05-07 00:35:30 +0000",
+      "minecraft:deep_ocean": "2025-05-07 01:00:40 +0000",
       "minecraft:river": "2025-05-07 00:33:38 +0000",
       "minecraft:lukewarm_ocean": "2025-05-07 00:35:41 +0000",
+      "minecraft:stony_shore": "2025-05-07 00:35:38 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-07 00:24:50 +0000",
+      "minecraft:jungle": "2025-05-07 00:35:30 +0000",
+      "minecraft:ocean": "2025-05-07 01:00:32 +0000",
+      "minecraft:sunflower_plains": "2025-05-07 01:01:57 +0000",
       "minecraft:grove": "2025-05-07 00:23:29 +0000",
       "minecraft:birch_forest": "2025-05-07 00:31:21 +0000",
-      "minecraft:stony_shore": "2025-05-07 00:35:38 +0000",
-      "minecraft:plains": "2025-05-06 00:20:29 +0000"
+      "minecraft:savanna": "2025-05-07 00:57:16 +0000",
+      "minecraft:bamboo_jungle": "2025-05-07 00:54:23 +0000",
+      "minecraft:plains": "2025-05-06 00:20:29 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-07 00:59:15 +0000"
     },
     "done": false
   },
@@ -330,7 +336,8 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "beef": "2025-05-07 00:32:22 +0000",
-      "porkchop": "2025-05-07 00:32:09 +0000"
+      "porkchop": "2025-05-07 00:32:09 +0000",
+      "golden_carrot": "2025-05-07 00:58:40 +0000"
     },
     "done": false
   },
@@ -463,6 +470,114 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2025-05-07 00:37:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-07 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-07 00:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-07 00:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-07 00:56:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-07 00:54:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-05-07 00:57:41 +0000"
     },
     "done": true
   },
