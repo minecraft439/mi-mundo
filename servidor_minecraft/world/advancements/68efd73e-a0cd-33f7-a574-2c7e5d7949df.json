@@ -15,6 +15,7 @@
       "minecraft:birch_forest": "2025-05-07 00:35:11 +0000",
       "minecraft:bamboo_jungle": "2025-05-07 01:48:28 +0000",
       "minecraft:wooded_badlands": "2025-05-07 02:25:41 +0000",
+      "minecraft:windswept_savanna": "2025-05-07 02:42:51 +0000",
       "minecraft:warm_ocean": "2025-05-07 01:53:08 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-07 01:51:27 +0000",
       "minecraft:badlands": "2025-05-07 02:24:52 +0000",
@@ -1537,6 +1538,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-07 02:45:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2025-05-07 01:54:45 +0000"
@@ -1552,6 +1559,12 @@
   "minecraft:recipes/building_blocks/cut_sandstone_slab_from_cut_sandstone_stonecutting": {
     "criteria": {
       "has_cut_sandstone": "2025-05-07 02:33:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-07 02:45:15 +0000"
     },
     "done": true
   },
