@@ -173,3 +173,11 @@
 [01:22:03] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -6100.500000, 88.000000, -2698.500000]
 [01:22:13] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
 [01:22:13] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
+[01:24:33] [Server thread/INFO]: jp7806073 was shot by Lvl 6 | Skeleton
+[01:28:10] [Server thread/INFO]: jp7806073 was slain by Lvl 2 | Zombie
+[01:30:08] [Server thread/INFO]: jp7806073 was slain by Lvl 1 | Zombie
+[01:30:54] [Server thread/INFO]: Made Sebas23m a server operator
+[01:31:51] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 295 -45 202
+[01:31:51] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to 295.500000, -45.000000, 202.500000]
+[01:32:14] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
+[01:32:14] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
