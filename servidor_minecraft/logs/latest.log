@@ -181,3 +181,10 @@
 [01:31:51] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to 295.500000, -45.000000, 202.500000]
 [01:32:14] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
 [01:32:14] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
+[01:36:02] [Server thread/INFO]: jp7806073 burned to death
+[01:37:55] [Server thread/INFO]: jp7806073 fell from a high place
+[01:51:46] [User Authenticator #6/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[01:51:46] [Server thread/INFO]: jp7806073 lost connection: You logged in from another location
+[01:51:46] [Server thread/INFO]: jp7806073 left the game
+[01:51:49] [Server thread/INFO]: jp7806073 joined the game
+[01:51:49] [Server thread/INFO]: jp7806073[/127.197.184.113:40827] logged in with entity id 64233 at ([world]1040.3446243443439, 62.110764312744145, -588.9501681306848)
