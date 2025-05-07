@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-07 01:09:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-05-07 00:19:21 +0000"
@@ -278,6 +284,18 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-07 00:41:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-05-07 01:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-05-07 01:09:33 +0000"
     },
     "done": true
   },
@@ -581,6 +599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_glow_ink_sac": "2025-05-07 01:22:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-07 00:38:33 +0000"
@@ -683,6 +707,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-05-07 01:03:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/tuff_brick_wall_from_tuff_stonecutting": {
     "criteria": {
       "has_tuff": "2025-05-07 00:40:26 +0000"
@@ -764,7 +794,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-07 00:29:33 +0000",
-      "minecraft:zombie": "2025-05-07 00:33:29 +0000"
+      "minecraft:spider": "2025-05-07 01:11:38 +0000",
+      "minecraft:zombie": "2025-05-07 00:33:29 +0000",
+      "minecraft:zombie_villager": "2025-05-07 01:02:00 +0000"
     },
     "done": false
   },
@@ -939,6 +971,7 @@
       "minecraft:grove": "2025-05-07 00:21:01 +0000",
       "minecraft:birch_forest": "2025-05-07 00:35:11 +0000",
       "minecraft:stony_shore": "2025-05-07 00:43:38 +0000",
+      "minecraft:savanna": "2025-05-07 01:05:44 +0000",
       "minecraft:plains": "2025-05-07 00:13:30 +0000"
     },
     "done": false
@@ -1039,6 +1072,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-07 01:17:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_tuff": {
     "criteria": {
       "has_tuff": "2025-05-07 00:40:26 +0000"
@@ -1078,6 +1117,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2025-05-07 00:19:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-07 01:17:28 +0000"
     },
     "done": true
   },

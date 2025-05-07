@@ -140,3 +140,36 @@
 [00:57:55] [Server thread/INFO]: jp7806073 has made the advancement [Suit Up]
 [00:57:58] [Server thread/INFO]: STARTGAME fell from a high place
 [01:02:00] [Server thread/INFO]: jp7806073 has completed the challenge [It Spreads]
+[01:03:33] [Server thread/INFO]: jp7806073 has made the advancement [Sneak 100]
+[01:04:38] [Server thread/INFO]: STARTGAME has made the advancement [Sweet Dreams]
+[01:05:58] [Async Chat Thread - #3/INFO]: [Not Secure] <STARTGAME> juaj hdota vení por M>I:(
+[01:06:14] [Async Chat Thread - #3/INFO]: [Not Secure] <STARTGAME> jugarán! hdpta vení por mi :(
+[01:06:14] [Async Chat Thread - #3/INFO]: [Not Secure] <jp7806073> ya casi voy
+[01:06:27] [Async Chat Thread - #3/INFO]: [Not Secure] <STARTGAME> jajajaja
+[01:06:30] [Async Chat Thread - #3/INFO]: [Not Secure] <STARTGAME> juan*
+[01:06:55] [Server thread/INFO]: STARTGAME lost connection: Disconnected
+[01:06:55] [Server thread/INFO]: STARTGAME left the game
+[01:09:24] [Server thread/WARN]: Sebas23m was kicked for floating too long!
+[01:09:24] [Server thread/INFO]: Sebas23m lost connection: Flying is not enabled on this server
+[01:09:24] [Server thread/INFO]: Sebas23m left the game
+[01:09:56] [User Authenticator #5/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[01:09:59] [Server thread/INFO]: com.mojang.authlib.GameProfile@5a03d2d0[id=05baa57d-e0e2-3245-950d-ef017ffd725d,name=Sebas23m,properties={textures=[Property[name=textures, value=ewogICJ0aW1lc3RhbXAiIDogMTYwNzYxNjk3NzA3NCwKICAicHJvZmlsZUlkIiA6ICIwNjEzY2I1Y2QxYjg0M2JjYjI4OTk1NWU4N2QzMGEyYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJicmVhZGxvYWZzcyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83ZDY5OTFhZjY1MTMzZjE1ZTEzNDQyNjM1MTQwZmMyNTRmYzI1NGU5OGM5OWU4NDU4MzRjMjU4YTQzN2JlMDEiCiAgICB9CiAgfQp9, signature=caWbZfwAx6TQ8xHVCTf6suA7PJmZbllnQdr/5wnOz2W8XD+v7yvRnk79Ebl2bwfPFhfQjq6AjJ3U/6MYy9ER9IAQJ3HXgWH/G3FEwxR6/ijWF8kx2dsjOERxP+Zd8BD/JCuisPkz2bfKXU3Nej5wQ7dfFKT0J/xMoYQu9tSagT1VuUJijUhBNkYvfP1UBSQoEqAp49SeuPgUaMp67Sie1VxQ4b8t3B5/EUDmvYdx/SH5v02L1FXZ+kOSmYSYWWhql9JYYFMaFMaBT0JvbsovOZXY5mXnvF3ac36SqRUYcz29AFGFYPaNmui5G1e/ycgctFygrK3oTiWYw3kP4dmqMel5hQpCHR5WqrE9gIE5GoVNaFlqugwion9tzvihNz2TFThDDrVl64EoHIxeprVBnsZZsE8U+mZvfBxrrQd9AfNyBDlEjSq+KzLPQ7FFja43SIhApRVqgGmoQx1g+fxirMgUnTLvK4AcLZGModCWWSYbOGs5RrALvCktIpk0uWQuEQkj7VusYb/mKxRzoTTY95D2KWHgmk4e7I7RliM24gUQ3QIgVII/z5H1SgKUb+bvacA1xD6jYaw9pd1jFNT2ucuONNqwMrcR/wKCJ5jg4fngnCXZsu0YGxA/eXnc0sITa+6GLEb+9iFbPdCC5RmhMVWKDZfcnGdbvnS/4i7BZLg=]]}] lost connection: Disconnected
+[01:10:08] [User Authenticator #5/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[01:10:10] [Server thread/INFO]: Sebas23m joined the game
+[01:10:10] [Server thread/INFO]: Sebas23m[/127.50.210.97:59697] logged in with entity id 29832 at ([world]-4783.718480195433, 64.78947876269956, -2638.3871900063614)
+[01:12:18] [Server thread/INFO]: Sebas23m has made the advancement [Monster Hunter]
+[01:15:43] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved wrongly! 0.36094811859766196
+[01:15:43] [Server thread/WARN]: Oak Boat (vehicle of Sebas23m) moved wrongly! 0.46928280726751836
+[01:18:04] [Server thread/INFO]: Made Sebas23m a server operator
+[01:18:14] [Server thread/INFO]: Sebas23m issued server command: /difficulty hard
+[01:18:14] [Server thread/INFO]: [Sebas23m: The difficulty has been set to Hard]
+[01:19:42] [Server thread/INFO]: Sebas23m issued server command: /gamerule playersSleepingPercentage 1
+[01:19:42] [Server thread/INFO]: [Sebas23m: Gamerule playersSleepingPercentage is now set to: 1]
+[01:20:51] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
+[01:20:51] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
+[01:21:25] [Server thread/INFO]: Sebas23m was doomed to fall by Skeleton
+[01:21:42] [Server thread/INFO]: Made Sebas23m a server operator
+[01:22:03] [Server thread/INFO]: Sebas23m issued server command: /tp -6101 88 -2699
+[01:22:03] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -6100.500000, 88.000000, -2698.500000]
+[01:22:13] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
+[01:22:13] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
