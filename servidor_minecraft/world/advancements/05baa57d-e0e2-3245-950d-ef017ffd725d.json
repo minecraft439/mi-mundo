@@ -741,6 +741,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:piglin": "2025-05-09 21:33:06 +0000",
+      "minecraft:zombie": "2025-05-09 21:38:56 +0000",
       "minecraft:drowned": "2025-05-07 01:12:18 +0000"
     },
     "done": false
@@ -1444,6 +1445,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-09 21:32:10 +0000",
+      "minecraft:nether_wastes": "2025-05-09 21:44:16 +0000",
       "minecraft:soul_sand_valley": "2025-05-09 21:31:55 +0000"
     },
     "done": false
@@ -1463,6 +1465,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-09 21:24:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-05-09 21:41:39 +0000"
     },
     "done": true
   },
