@@ -117,3 +117,9 @@
 [19:56:49] [Server thread/INFO]: STARTGAME left the game
 [19:58:36] [Server thread/INFO]: jp7806073 was slain by Iron Golem ❤
 [20:04:05] [Server thread/INFO]: Sebas23m was slain by Iron Golem ❤
+[20:07:05] [Server thread/INFO]: Sebas23m issued server command: /msg jp7806073 hola
+[20:07:06] [Server thread/INFO]: jp7806073 issued server command: /msg sebas23m Hola
+[20:07:58] [Server thread/INFO]: jp7806073 has made the advancement [Cover Me with Diamonds]
+[20:14:30] [User Authenticator #2/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[20:14:34] [Server thread/INFO]: STARTGAME joined the game
+[20:14:34] [Server thread/INFO]: STARTGAME[/127.2.240.168:60305] logged in with entity id 16383 at ([world]9567.06077090958, 63.0, -1513.4655611272601)
