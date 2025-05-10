@@ -123,3 +123,6 @@
 [20:14:30] [User Authenticator #2/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
 [20:14:34] [Server thread/INFO]: STARTGAME joined the game
 [20:14:34] [Server thread/INFO]: STARTGAME[/127.2.240.168:60305] logged in with entity id 16383 at ([world]9567.06077090958, 63.0, -1513.4655611272601)
+[20:23:33] [Server thread/INFO]: STARTGAME lost connection: Disconnected
+[20:23:33] [Server thread/INFO]: STARTGAME left the game
+[20:24:26] [Server thread/INFO]: Sebas23m was slain by Lvl 50 | Piglin
