@@ -142,3 +142,14 @@
 [20:56:33] [User Authenticator #3/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
 [20:56:34] [Server thread/INFO]: Sebas23m joined the game
 [20:56:34] [Server thread/INFO]: Sebas23m[/127.225.117.164:54293] logged in with entity id 27438 at ([world_nether]-2469.300000011921, 30.875, -440.69999998807907)
+[20:56:57] [Server thread/INFO]: Made Sebas23m a server operator
+[20:57:07] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[20:57:07] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[20:58:41] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[20:58:41] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[20:58:47] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
+[20:58:47] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
+[21:00:44] [Server thread/INFO]: Sebas23m has made the advancement [Those Were the Days]
+[21:04:53] [Server thread/INFO]: Sebas23m has made the advancement [War Pigs]
+[21:04:55] [Server thread/INFO]: Sebas23m has made the advancement [Hidden in the Depths]
+[21:04:56] [Server thread/INFO]: Sebas23m has made the advancement [Who is Cutting Onions?]
