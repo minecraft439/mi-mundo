@@ -751,6 +751,7 @@
       "minecraft:spider": "2025-05-10 18:12:55 +0000",
       "minecraft:wither_skeleton": "2025-05-09 22:13:58 +0000",
       "minecraft:zombie": "2025-05-09 21:38:56 +0000",
+      "minecraft:creeper": "2025-05-10 18:24:44 +0000",
       "minecraft:drowned": "2025-05-07 01:12:18 +0000"
     },
     "done": false
@@ -1783,6 +1784,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-10 18:19:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-10 18:03:02 +0000"
@@ -1927,9 +1934,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2025-05-10 18:24:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-05-10 17:58:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-10 18:21:17 +0000"
     },
     "done": true
   },
@@ -1948,6 +1967,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-10 18:18:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-10 18:19:09 +0000"
     },
     "done": true
   },
@@ -1990,6 +2015,12 @@
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-05-10 17:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-10 18:21:17 +0000"
     },
     "done": true
   },
@@ -2056,6 +2087,12 @@
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2025-05-10 17:58:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-10 18:19:09 +0000"
     },
     "done": true
   },
