@@ -153,3 +153,16 @@
 [21:04:53] [Server thread/INFO]: Sebas23m has made the advancement [War Pigs]
 [21:04:55] [Server thread/INFO]: Sebas23m has made the advancement [Hidden in the Depths]
 [21:04:56] [Server thread/INFO]: Sebas23m has made the advancement [Who is Cutting Onions?]
+[21:13:46] [Server thread/INFO]: Sebas23m was burned to a crisp while fighting Blaze
+[21:14:11] [Server thread/INFO]: Made Sebas23m a server operator
+[21:14:32] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -2747.0 86 -180.0
+[21:14:32] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -2747.000000, 86.000000, -180.000000]
+[21:15:41] [User Authenticator #4/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[21:15:44] [Server thread/INFO]: jp7806073 joined the game
+[21:15:44] [Server thread/INFO]: jp7806073[/127.197.184.113:38055] logged in with entity id 30130 at ([world]9550.611599823516, 63.0, -1517.8767437488232)
+[21:15:50] [Async Chat Thread - #3/INFO]: [Not Secure] <Sebas23m> hola
+[21:15:56] [Async Chat Thread - #3/INFO]: [Not Secure] <jp7806073> hola
+[21:15:59] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
+[21:15:59] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
+[21:16:24] [Async Chat Thread - #3/INFO]: [Not Secure] <jp7806073> te marco??
+[21:16:36] [Server thread/INFO]: jp7806073 issued server command: /sell
