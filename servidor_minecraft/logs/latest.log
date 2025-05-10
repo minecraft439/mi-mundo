@@ -107,3 +107,14 @@
 [23:39:28] [Server thread/INFO]: Sebas23m joined the game
 [23:39:28] [Server thread/INFO]: Sebas23m[/127.225.117.164:50065] logged in with entity id 2093 at ([world_nether]-2985.552885490397, 64.0, -406.44568156883076)
 [23:42:10] [Server thread/INFO]: Sebas23m has completed the challenge [Hot Tourist Destinations]
+[23:46:27] [Server thread/INFO]: jp7806073 was slain by Iron Golem ❤
+[23:52:22] [Server thread/INFO]: Sebas23m tried to swim in lava
+[23:54:27] [Server thread/INFO]: Made Sebas23m a server operator
+[23:54:36] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[23:54:36] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[23:54:40] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -2596.0 103 -349.0
+[23:54:40] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -2596.000000, 103.000000, -349.000000]
+[23:54:55] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[23:54:55] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[23:55:00] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
+[23:55:00] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
