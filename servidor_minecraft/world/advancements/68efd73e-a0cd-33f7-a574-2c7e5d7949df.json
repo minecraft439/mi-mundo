@@ -7,8 +7,11 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cold_ocean": "2025-05-11 01:07:53 +0000",
       "minecraft:forest": "2025-05-07 00:19:18 +0000",
       "minecraft:taiga": "2025-05-09 02:16:24 +0000",
+      "minecraft:deep_ocean": "2025-05-11 01:09:31 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-11 01:08:58 +0000",
       "minecraft:ice_spikes": "2025-05-09 02:35:56 +0000",
       "minecraft:frozen_ocean": "2025-05-09 02:33:25 +0000",
       "minecraft:eroded_badlands": "2025-05-07 02:23:40 +0000",
@@ -16,6 +19,7 @@
       "minecraft:frozen_river": "2025-05-09 02:25:47 +0000",
       "minecraft:windswept_forest": "2025-05-07 02:41:41 +0000",
       "minecraft:jungle": "2025-05-07 01:48:36 +0000",
+      "minecraft:ocean": "2025-05-11 01:09:58 +0000",
       "minecraft:cherry_grove": "2025-05-09 02:22:20 +0000",
       "minecraft:birch_forest": "2025-05-07 00:35:11 +0000",
       "minecraft:snowy_beach": "2025-05-09 02:32:38 +0000",
@@ -717,7 +721,8 @@
       "minecraft:enderman": "2025-05-11 00:27:39 +0000",
       "minecraft:spider": "2025-05-07 01:11:38 +0000",
       "minecraft:zombie": "2025-05-07 00:33:29 +0000",
-      "minecraft:zombie_villager": "2025-05-07 01:02:00 +0000"
+      "minecraft:zombie_villager": "2025-05-07 01:02:00 +0000",
+      "minecraft:ender_dragon": "2025-05-11 01:01:54 +0000"
     },
     "done": false
   },
@@ -2202,6 +2207,24 @@
   "minecraft:end/respawn_dragon": {
     "criteria": {
       "summoned_dragon": "2025-05-11 00:44:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:end/kill_dragon": {
+    "criteria": {
+      "killed_dragon": "2025-05-11 01:01:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-05-11 01:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-05-11 01:10:03 +0000"
     },
     "done": true
   },
