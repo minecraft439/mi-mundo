@@ -217,3 +217,47 @@
 [01:05:07] [Server thread/WARN]: Horse (vehicle of jp7806073) moved wrongly! 1.5024691088583495
 [01:05:07] [Server thread/WARN]: Horse (vehicle of jp7806073) moved wrongly! 0.480104497366483
 [01:05:07] [Server thread/WARN]: Horse (vehicle of jp7806073) moved wrongly! 0.7386869237070641
+[01:21:12] [User Authenticator #7/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[01:21:14] [Server thread/INFO]: Sebas23m joined the game
+[01:21:14] [Server thread/INFO]: Sebas23m[/127.225.117.164:44521] logged in with entity id 39657 at ([world_the_end]-0.699999988079071, 57.0, 4.300000011920929)
+[01:21:40] [Server thread/INFO]: Cami23m hit the ground too hard
+[01:22:35] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -0.5 22 243.5
+[01:22:35] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -0.500000, 22.000000, 243.500000]
+[01:22:40] [Server thread/INFO]: Sebas23m fell out of the world
+[01:22:59] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17711.0 121 -3798.0
+[01:22:59] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17711.000000, 121.000000, -3798.000000]
+[01:23:08] [Server thread/INFO]: Sebas23m fell from a high place
+[01:23:20] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[01:23:20] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[01:23:24] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17580.0 73 -4332.0
+[01:23:24] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17580.000000, 73.000000, -4332.000000]
+[01:23:31] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[01:23:31] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[01:23:38] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17701.5 25 -3795.5
+[01:23:38] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17701.500000, 25.000000, -3795.500000]
+[01:23:48] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -0.5 22 243.5
+[01:23:48] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -0.500000, 22.000000, 243.500000]
+[01:24:03] [Server thread/INFO]: Sebas23m fell out of the world
+[01:24:22] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[01:24:22] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[01:24:32] [Server thread/INFO]: Cami23m lost connection: Disconnected
+[01:24:32] [Server thread/INFO]: Cami23m left the game
+[01:24:38] [User Authenticator #8/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[01:24:40] [Server thread/INFO]: Cami23m joined the game
+[01:24:40] [Server thread/INFO]: Cami23m[/127.225.117.164:33681] logged in with entity id 42460 at ([world]1.2006824600560357, 85.0, 32.55331268383441)
+[01:24:46] [Server thread/INFO]: STARTGAME lost connection: Disconnected
+[01:24:46] [Server thread/INFO]: STARTGAME left the game
+[01:24:46] [Server thread/INFO]: Attempt to teleport removed player STARTGAME restricted
+[01:24:52] [User Authenticator #8/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[01:24:55] [Server thread/INFO]: STARTGAME joined the game
+[01:24:55] [Server thread/INFO]: STARTGAME[/127.2.240.168:39593] logged in with entity id 42590 at ([world]11518.069965629233, 62.110764312744145, -3201.937496951596)
+[01:25:03] [Server thread/INFO]: Cami23m was slain by Cami23m's Zombie
+[01:25:32] [Server thread/INFO]: STARTGAME lost connection: Timed out
+[01:25:32] [Server thread/INFO]: STARTGAME left the game
+[01:25:38] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
+[01:25:38] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
+[01:25:46] [Server thread/INFO]: Cami23m was slain by Cami23m's Zombie
+[01:25:46] [User Authenticator #8/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[01:25:51] [Server thread/INFO]: STARTGAME joined the game
+[01:25:51] [Server thread/INFO]: STARTGAME[/127.2.240.168:38679] logged in with entity id 42834 at ([world]11522.683572668619, 62.110764312744145, -3207.2667509326343)
+[01:26:16] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17586.0 71 -4308.0
