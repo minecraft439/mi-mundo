@@ -129,3 +129,22 @@
 [00:45:35] [User Authenticator #5/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
 [00:45:39] [Server thread/INFO]: jp7806073 joined the game
 [00:45:39] [Server thread/INFO]: jp7806073[/127.197.184.113:51347] logged in with entity id 28949 at ([world_the_end]-7.300000011920929, 58.0, 35.43596633744665)
+[00:46:17] [Server thread/INFO]: Sebas23m fell from a high place
+[00:46:20] [Server thread/INFO]: jp7806073 hit the ground too hard while trying to escape Enderman
+[00:46:33] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m Cami23m
+[00:46:33] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to Cami23m]
+[00:46:42] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[00:46:42] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
+[00:47:30] [Server thread/INFO]: jp7806073 was slain by Lvl 25 | Enderman
+[00:47:32] [Server thread/INFO]: Cami23m drowned
+[00:47:40] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[00:47:40] [Server thread/INFO]: Attempt to teleport removed player Cami23m restricted
+[00:47:40] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
+[00:48:07] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[00:48:07] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[00:51:20] [Server thread/INFO]: jp7806073 was slain by Lvl 45 | Enderman
+[00:52:04] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[00:52:04] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
+[00:53:16] [Server thread/INFO]: Cami23m was slain by Lvl 50 | Enderman
+[00:54:59] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[00:54:59] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
