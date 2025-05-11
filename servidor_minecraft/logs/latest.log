@@ -403,3 +403,14 @@
 [01:56:18] [Server thread/INFO]: Sebas23m has completed the challenge [Great View From Up Here]
 [01:57:02] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17571.0 70 -4317.0
 [01:57:02] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17571.000000, 70.000000, -4317.000000]
+[01:57:11] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[01:57:11] [Server thread/INFO]: Sebas23m left the game
+[02:01:16] [User Authenticator #12/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[02:01:18] [Server thread/INFO]: Sebas23m joined the game
+[02:01:18] [Server thread/INFO]: Sebas23m[/127.225.117.164:47105] logged in with entity id 61772 at ([world]-17572.615188406966, 71.0, -4333.474579827694)
+[02:02:24] [User Authenticator #13/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[02:02:28] [Server thread/INFO]: Cami23m joined the game
+[02:02:28] [Server thread/INFO]: Cami23m[/127.225.117.164:35527] logged in with entity id 62400 at ([world]-17587.5, 65.0, -4313.5)
+[02:02:35] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[02:02:35] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[02:03:57] [Server thread/INFO]: STARTGAME has made the advancement [Ice Bucket Challenge]
