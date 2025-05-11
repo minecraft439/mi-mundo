@@ -91,3 +91,41 @@
 [00:35:12] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
 [00:35:32] [Server thread/INFO]: STARTGAME lost connection: Timed out
 [00:35:32] [Server thread/INFO]: STARTGAME left the game
+[00:35:49] [Server thread/INFO]: jp7806073 was killed by Ender Dragon using magic
+[00:35:50] [Server thread/INFO]: Cami23m was killed by Ender Dragon using magic
+[00:36:19] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[00:36:19] [Server thread/INFO]: Attempt to teleport removed player Cami23m restricted
+[00:36:19] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
+[00:36:40] [Server thread/INFO]: Sebas23m has made the advancement [Free the End]
+[00:37:19] [Server thread/INFO]: Cami23m was slain by Cami23m's Zombie
+[00:37:26] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[00:37:26] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
+[00:37:45] [Server thread/INFO]: jp7806073 was slain by Lvl 45 | Enderman
+[00:37:58] [Server thread/INFO]: Cami23m was slain by jp7806073's Zombie
+[00:38:19] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[00:38:19] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
+[00:38:41] [Server thread/INFO]: Sebas23m has reached the goal [The Next Generation]
+[00:38:58] [Server thread/INFO]: Cami23m was slain by jp7806073
+[00:39:04] [Server thread/INFO]: jp7806073 was slain by Sebas23m
+[00:39:11] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[00:39:11] [Server thread/INFO]: Attempt to teleport removed player Cami23m restricted
+[00:39:11] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
+[00:39:23] [Server thread/INFO]: Named entity Zombie['Cami23m's Zombie'/28106, uuid='d89ad026-9d80-40da-b3c7-ea02d32a0147', l='ServerLevel[world_the_end]', x=8.47, y=60.00, z=0.78, cpos=[0, 0], tl=1203, v=true] died: Cami23m's Zombie was slain by Sebas23m
+[00:39:31] [Server thread/INFO]: Named entity Zombie['jp7806073's Zombie'/27994, uuid='7772c7b1-8e8b-4e65-a77e-fa072d7b5952', l='ServerLevel[world_the_end]', x=7.51, y=60.00, z=8.68, cpos=[0, 0], tl=1992, v=true] died: jp7806073's Zombie was slain by Sebas23m
+[00:40:11] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[00:40:11] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[00:40:31] [Server thread/INFO]: Named entity Zombie['STARTGAME's Zombie'/28587, uuid='404aa085-f559-4c5e-932e-e83a3b7ffb0e', l='ServerLevel[world_the_end]', x=5.12, y=61.00, z=-7.77, cpos=[0, -1], tl=199, v=true] died: STARTGAME's Zombie was slain by jp7806073
+[00:40:57] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[00:40:57] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[00:41:15] [Server thread/INFO]: Named entity Zombie['Cami23m's Zombie'/28675, uuid='62dfe9e2-e6b4-491e-8a23-c6d2d7bfd8c7', l='ServerLevel[world_the_end]', x=19.84, y=60.00, z=-6.81, cpos=[1, -1], tl=224, v=true] died: Cami23m's Zombie was slain by jp7806073
+[00:43:15] [Server thread/INFO]: jp7806073 has made the advancement [Take Aim]
+[00:44:09] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[00:44:09] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[00:44:25] [Server thread/INFO]: Cami23m has reached the goal [The End... Again...]
+[00:44:25] [Server thread/INFO]: Sebas23m has reached the goal [The End... Again...]
+[00:44:25] [Server thread/INFO]: jp7806073 has reached the goal [The End... Again...]
+[00:44:42] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[00:44:42] [Server thread/INFO]: jp7806073 left the game
+[00:45:35] [User Authenticator #5/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[00:45:39] [Server thread/INFO]: jp7806073 joined the game
+[00:45:39] [Server thread/INFO]: jp7806073[/127.197.184.113:51347] logged in with entity id 28949 at ([world_the_end]-7.300000011920929, 58.0, 35.43596633744665)
