@@ -101,3 +101,10 @@
 [14:28:50] [Server thread/INFO]: jp7806073 joined the game
 [14:28:50] [Server thread/INFO]: jp7806073[/127.197.184.113:55041] logged in with entity id 141 at ([world]11590.499267768373, 71.0, -3719.525970461807)
 [14:35:19] [Server thread/WARN]: Spruce Boat (vehicle of STARTGAME) moved wrongly! 0.6540844612128657
+[14:49:44] [Server thread/WARN]: Spruce Boat (vehicle of STARTGAME) moved wrongly! 1.3682695201388086
+[14:54:06] [User Authenticator #1/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[14:54:10] [Server thread/INFO]: Sebas23m joined the game
+[14:54:10] [Server thread/INFO]: Sebas23m[/127.225.117.164:53643] logged in with entity id 14592 at ([world]-17574.643563784583, 71.875, -4337.934180288218)
+[14:56:33] [User Authenticator #2/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[14:56:36] [Server thread/INFO]: Cami23m joined the game
+[14:56:36] [Server thread/INFO]: Cami23m[/127.225.117.164:40435] logged in with entity id 16954 at ([world]-17538.69999998808, 75.0, -4330.3823484387885)
