@@ -730,3 +730,40 @@ java.lang.NullPointerException: Cannot invoke "String.replace(java.lang.CharSequ
 [02:26:29] [Server thread/INFO]: Cami23m was slain by Iron Golem ❤
 [02:26:57] [Server thread/INFO]: Cami23m was slain by Iron Golem ❤
 [02:27:40] [Server thread/INFO]: Cami23m was slain by Iron Golem ❤
+[02:33:07] [Server thread/INFO]: jp7806073 was shot by Lvl 20 | Skeleton
+[02:34:22] [Server thread/INFO]: jp7806073 was slain by Lvl 23 | Zombie
+[02:34:37] [Server thread/INFO]: Cami23m tried to swim in lava
+[02:34:57] [Server thread/INFO]: jp7806073 was blown up by Lvl 27 | Creeper
+[02:35:58] [Async Chat Thread - #3/INFO]: [Not Secure] <Sebas23m> que haces
+[02:36:11] [Async Chat Thread - #3/INFO]: [Not Secure] <jp7806073> me muero
+[02:39:18] [Server thread/INFO]: jp7806073 was shot by Lvl 30 | Skeleton
+[02:39:36] [Async Chat Thread - #5/INFO]: [Not Secure] <jp7806073> qu mierda metiste este HP server
+[02:39:39] [Async Chat Thread - #6/INFO]: [Not Secure] <jp7806073> hppp
+[02:39:46] [Async Chat Thread - #6/INFO]: [Not Secure] <jp7806073> me mlp vicjls
+[02:40:35] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> si quieres lo quito
+[02:40:45] [Server thread/INFO]: Cami23m was slain by Lvl 26 | Zombie
+[02:41:07] [Server thread/INFO]: jp7806073 was blown up by Lvl 26 | Creeper
+[02:41:17] [Async Chat Thread - #6/INFO]: [Not Secure] <Sebas23m> t tpo a tu lugar de muerte
+[02:41:19] [Server thread/INFO]: Cami23m was slain by Lvl 26 | Zombie
+[02:41:20] [Server thread/INFO]: Attempt to teleport removed player Cami23m restricted
+[02:41:25] [Async Chat Thread - #6/INFO]: [Not Secure] <jp7806073> no
+[02:41:26] [Server thread/INFO]: jp7806073 was slain by Lvl 16 | Zombie
+[02:41:39] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[02:41:39] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[02:41:39] [Server thread/INFO]: Cami23m was slain by Lvl 26 | Zombie
+[02:41:51] [Server thread/INFO]: Cami23m was slain by Lvl 26 | Zombie
+[02:41:55] [Server thread/INFO]: jp7806073 was shot by Lvl 26 | Skeleton
+[02:42:51] [Server thread/INFO]: jp7806073 was killed by Lvl 27 | Witch using magic
+[02:43:16] [User Authenticator #14/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[02:43:20] [Server thread/INFO]: STARTGAME joined the game
+[02:43:20] [Server thread/INFO]: STARTGAME[/127.2.240.168:47025] logged in with entity id 76958 at ([world]11594.611343116592, 71.0, -3765.6284240818504)
+[02:43:52] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[02:43:52] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[02:43:56] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
+[02:43:56] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
+[02:44:41] [Server thread/INFO]: jp7806073 was blown up by Lvl 26 | Creeper
+[02:45:38] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[02:45:38] [Server thread/INFO]: jp7806073 left the game
+[02:47:17] [User Authenticator #15/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[02:47:20] [Server thread/INFO]: jp7806073 joined the game
+[02:47:20] [Server thread/INFO]: jp7806073[/127.197.184.113:53445] logged in with entity id 78139 at ([world]11585.206261353733, 71.0, -3723.9628923308296)
