@@ -210,3 +210,18 @@
 [16:33:56] [User Authenticator #11/INFO]: UUID of player jhonwuyck722 is 22f109f5-0b6d-34a0-824b-497aa73b1c40
 [16:34:00] [Server thread/INFO]: jhonwuyck722 joined the game
 [16:34:00] [Server thread/INFO]: jhonwuyck722[/127.197.184.113:37681] logged in with entity id 64617 at ([world]-12.699999988079071, 88.0, 31.69999998807907)
+[16:40:50] [Server thread/INFO]: jhonwuyck722 was slain by Lvl 1 | Zombie
+[16:41:08] [Server thread/INFO]: Sebas23m issued server command: /tp jhonwuyck722 jp7806073
+[16:41:08] [Server thread/INFO]: [Sebas23m: Teleported jhonwuyck722 to jp7806073]
+[16:41:20] [Server thread/INFO]: jhonwuyck722 was slain by Lvl 29 | Zombie
+[16:41:26] [Server thread/INFO]: jp7806073 was slain by Lvl 29 | Zombie
+[16:41:40] [Server thread/INFO]: Sebas23m issued server command: /tp jhonwuyck722 jp7806073
+[16:41:40] [Server thread/INFO]: [Sebas23m: Teleported jhonwuyck722 to jp7806073]
+[16:41:46] [Server thread/INFO]: Cami23m was slain by Iron Golem ❤
+[16:42:49] [Server thread/INFO]: jhonwuyck722 lost connection: Disconnected
+[16:42:49] [Server thread/INFO]: jhonwuyck722 left the game
+[16:43:43] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[16:43:43] [Server thread/INFO]: jp7806073 left the game
+[16:45:03] [User Authenticator #12/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[16:45:07] [Server thread/INFO]: jp7806073 joined the game
+[16:45:07] [Server thread/INFO]: jp7806073[/127.197.184.113:54841] logged in with entity id 68641 at ([world]11592.699999988079, 66.5625, -3701.238769617825)
