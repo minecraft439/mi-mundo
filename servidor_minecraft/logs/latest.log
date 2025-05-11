@@ -176,3 +176,19 @@
 [15:34:10] [Server thread/INFO]: Sebas23m left the game
 [15:34:47] [Server thread/INFO]: Cami23m lost connection: Disconnected
 [15:34:47] [Server thread/INFO]: Cami23m left the game
+[15:53:41] [Server thread/INFO]: jhonwuyck722 was slain by jp7806073
+[15:53:52] [Server thread/INFO]: Named entity Zombie['jhonwuyck722's Zombie'/54400, uuid='ae3f9ec8-9b1f-4c9a-ade7-7c2d4d15eb7c', l='ServerLevel[world]', x=11587.44, y=69.94, z=-3703.74, cpos=[724, -232], tl=163, v=true] died: jhonwuyck722's Zombie was slain by jp7806073
+[15:54:19] [Server thread/INFO]: jhonwuyck722 lost connection: Disconnected
+[15:54:19] [Server thread/INFO]: jhonwuyck722 left the game
+[16:05:03] [Server thread/INFO]: jp7806073 was slain by Lvl 30 | Zombie
+[16:05:45] [User Authenticator #7/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[16:05:47] [Server thread/INFO]: Sebas23m joined the game
+[16:05:47] [Server thread/INFO]: Sebas23m[/127.225.117.164:40143] logged in with entity id 56444 at ([world]-17573.075557036726, 73.0, -4326.1476334903555)
+[16:05:57] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> que haces
+[16:06:02] [Async Chat Thread - #0/INFO]: [Not Secure] <jp7806073> was
+[16:06:11] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> que
+[16:06:20] [Async Chat Thread - #0/INFO]: [Not Secure] <jp7806073> WhatsApp
+[16:06:24] [Async Chat Thread - #0/INFO]: [Not Secure] <Sebas23m> ya voy
+[16:07:12] [User Authenticator #8/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
+[16:07:15] [Server thread/INFO]: Cami23m joined the game
+[16:07:15] [Server thread/INFO]: Cami23m[/127.225.117.164:42103] logged in with entity id 57077 at ([world]-17565.078104218268, 72.0, -4358.0313568916845)
