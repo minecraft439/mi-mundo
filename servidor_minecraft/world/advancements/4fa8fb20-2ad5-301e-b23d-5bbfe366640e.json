@@ -487,6 +487,7 @@
     "criteria": {
       "cooked_porkchop": "2025-05-11 02:04:17 +0000",
       "chicken": "2025-05-07 02:29:38 +0000",
+      "rotten_flesh": "2025-05-11 16:54:40 +0000",
       "salmon": "2025-05-11 01:41:00 +0000",
       "beef": "2025-05-07 02:34:16 +0000",
       "porkchop": "2025-05-07 02:18:28 +0000",
@@ -1477,6 +1478,24 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-05-11 16:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-05-11 16:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-05-11 16:51:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-05-11 16:51:44 +0000"
     },
     "done": true
   },
