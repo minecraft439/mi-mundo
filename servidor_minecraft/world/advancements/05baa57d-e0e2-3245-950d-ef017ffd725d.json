@@ -15,6 +15,7 @@
       "minecraft:deep_cold_ocean": "2025-05-07 02:22:46 +0000",
       "minecraft:eroded_badlands": "2025-05-07 01:54:21 +0000",
       "minecraft:desert": "2025-05-07 01:42:30 +0000",
+      "minecraft:frozen_river": "2025-05-11 03:13:45 +0000",
       "minecraft:jungle": "2025-05-07 00:35:30 +0000",
       "minecraft:ocean": "2025-05-07 01:00:32 +0000",
       "minecraft:sunflower_plains": "2025-05-07 01:01:57 +0000",
@@ -34,6 +35,9 @@
       "minecraft:river": "2025-05-07 00:33:38 +0000",
       "minecraft:lukewarm_ocean": "2025-05-07 00:35:41 +0000",
       "minecraft:stony_shore": "2025-05-07 00:35:38 +0000",
+      "minecraft:snowy_plains": "2025-05-11 03:12:23 +0000",
+      "minecraft:dripstone_caves": "2025-05-11 03:13:42 +0000",
+      "minecraft:snowy_taiga": "2025-05-11 03:13:47 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-07 00:24:50 +0000",
       "minecraft:grove": "2025-05-07 00:23:29 +0000",
       "minecraft:meadow": "2025-05-07 02:37:02 +0000",
@@ -2737,6 +2741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/netherite_block": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-11 03:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_candle": {
     "criteria": {
       "has_orange_dye": "2025-05-11 02:06:24 +0000"
@@ -2755,6 +2765,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-11 03:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
     "criteria": {
       "has_blue_dye": "2025-05-11 02:05:40 +0000"
@@ -2770,6 +2786,18 @@
   "minecraft:recipes/building_blocks/dye_red_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-11 02:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-11 03:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-11 03:20:49 +0000"
     },
     "done": true
   },
@@ -2806,6 +2834,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_blue_dye": "2025-05-11 02:05:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-11 03:20:49 +0000"
     },
     "done": true
   },
@@ -2875,6 +2909,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-11 03:20:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-11 03:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
       "has_purple_dye": "2025-05-11 02:05:48 +0000"
@@ -2926,6 +2972,12 @@
   "minecraft:recipes/redstone/redstone_lamp": {
     "criteria": {
       "has_glowstone": "2025-05-11 02:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/netherite_hoe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-11 03:20:49 +0000"
     },
     "done": true
   },
@@ -2983,6 +3035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-11 03:20:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
     "criteria": {
       "has_orange_tulip": "2025-05-11 02:06:20 +0000"
@@ -3019,6 +3077,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-11 03:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dye_yellow_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-11 02:05:42 +0000"
@@ -3049,6 +3113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lodestone": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-11 03:20:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2025-05-11 02:50:11 +0000"
@@ -3058,6 +3128,12 @@
   "minecraft:recipes/building_blocks/dye_purple_bed": {
     "criteria": {
       "has_needed_dye": "2025-05-11 02:05:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2025-05-11 03:20:49 +0000"
     },
     "done": true
   },

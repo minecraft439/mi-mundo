@@ -914,3 +914,85 @@ java.lang.NullPointerException: Cannot invoke "String.replace(java.lang.CharSequ
 [03:07:07] [Async Chat Thread - #11/INFO]: [Not Secure] <Sebas23m> tenes el pc para que apagues el server
 [03:07:16] [Async Chat Thread - #11/INFO]: [Not Secure] <jp7806073> creo q si
 [03:07:47] [Async Chat Thread - #11/INFO]: [Not Secure] <Sebas23m> seguro acordate de realizar back y apagarlo del todo
+[03:08:10] [Async Chat Thread - #11/INFO]: [Not Secure] <Sebas23m> mas bien volve a mandar tu correo y contra y yo lo apgo desde el cel
+[03:08:29] [Async Chat Thread - #11/INFO]: [Not Secure] <Sebas23m> va
+[03:08:35] [Async Chat Thread - #11/INFO]: [Not Secure] <Sebas23m> o lo apagas tu
+[03:08:53] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
+[03:08:53] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
+[03:08:54] [Server thread/INFO]: jp7806073 was slain by Zombie ❤
+[03:09:09] [Async Chat Thread - #11/INFO]: [Not Secure] <STARTGAME> chau
+[03:10:04] [Server thread/INFO]: jp7806073 was slain by Lvl 29 | Spider
+[03:10:46] [Server thread/INFO]: jp7806073 was slain by Lvl 29 | Spider
+[03:11:36] [Server thread/INFO]: jp7806073 was slain by Lvl 29 | Spider
+[03:12:05] [Server thread/INFO]: Made Sebas23m a server operator
+[03:12:12] [Server thread/INFO]: jp7806073 was slain by Lvl 29 | Spider
+[03:12:14] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[03:12:14] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[03:12:23] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[03:12:23] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[03:13:15] [Async Chat Thread - #13/INFO]: [Not Secure] <STARTGAME> y
+[03:13:16] [Server thread/INFO]: jp7806073 was slain by Lvl 29 | Spider
+[03:13:20] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[03:13:20] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[03:14:13] [Server thread/INFO]: STARTGAME has made the advancement [Monster Hunter]
+[03:14:27] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m STARTGAME
+[03:14:27] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to STARTGAME]
+[03:14:32] [Server thread/INFO]: jp7806073 was slain by Lvl 24 | Zombie
+[03:15:08] [Server thread/INFO]: jp7806073 was slain by Lvl 24 | Zombie
+[03:16:37] [Server thread/INFO]: STARTGAME was slain by Lvl 29 | Spider
+[03:16:40] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[03:16:40] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[03:16:53] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[03:16:53] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[03:17:04] [Server thread/INFO]: jp7806073 was slain by Lvl 26 | Spider
+[03:18:10] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[03:18:10] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[03:18:32] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17701.5 38 -3795.5
+[03:18:32] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17701.500000, 38.000000, -3795.500000]
+[03:18:42] [Server thread/INFO]: jp7806073 was slain by Lvl 24 | Zombie
+[03:18:59] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17563.0 71 -4340.0
+[03:18:59] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17563.000000, 71.000000, -4340.000000]
+[03:19:08] [Server thread/INFO]: jp7806073 was slain by Lvl 23 | Zombie
+[03:19:17] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[03:19:17] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[03:19:54] [Server thread/INFO]: jp7806073 was slain by jp7806073's Zombie
+[03:20:41] [Server thread/INFO]: jp7806073 was slain by jp7806073's Zombie
+[03:20:43] [Server thread/INFO]: STARTGAME was slain by Lvl 27 | Zombie
+[03:21:13] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME jp7806073
+[03:21:13] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to jp7806073]
+[03:21:16] [Server thread/INFO]: STARTGAME was slain by Wolf ❤
+[03:21:35] [Server thread/INFO]: jp7806073 was slain by Lvl 17 | Zombie
+[03:21:58] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME jp7806073
+[03:21:58] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to jp7806073]
+[03:22:45] [Server thread/INFO]: jp7806073 was slain by STARTGAME's Zombie
+[03:23:22] [Server thread/INFO]: STARTGAME was slain by Iron Golem ❤
+[03:23:47] [Server thread/INFO]: Sebas23m issued server command: /gamemode spectator
+[03:23:47] [Server thread/INFO]: [Sebas23m: Set own game mode to Spectator Mode]
+[03:23:54] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m jp7806073
+[03:23:54] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to jp7806073]
+[03:24:21] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m 11600.0 70 -3714.0
+[03:24:21] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 11600.000000, 70.000000, -3714.000000]
+[03:24:33] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[03:24:33] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[03:25:24] [Server thread/INFO]: STARTGAME was slain by Lvl 20 | Zombie
+[03:25:45] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[03:25:45] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
+[03:27:26] [Async Chat Thread - #15/INFO]: [Not Secure] <jp7806073> yaa
+[03:27:31] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[03:27:31] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
+[03:27:36] [Server thread/INFO]: STARTGAME was slain by jp7806073
+[03:27:38] [Server thread/INFO]: STARTGAME lost connection: Timed out
+[03:27:38] [Server thread/INFO]: STARTGAME left the game
+[03:27:46] [User Authenticator #16/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[03:27:49] [Server thread/INFO]: STARTGAME joined the game
+[03:27:49] [Server thread/INFO]: STARTGAME[/127.2.240.168:38925] logged in with entity id 93384 at ([world]11587.073800741735, 72.69043776388428, -3704.599565572073)
+[03:27:54] [Server thread/INFO]: Sebas23m issued server command: /kill jp7806073
+[03:27:54] [Server thread/INFO]: jp7806073 was killed
+[03:27:54] [Server thread/INFO]: [Sebas23m: Killed jp7806073]
+[03:28:03] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[03:28:03] [Server thread/INFO]: [Sebas23m: Teleported 3 entities to Sebas23m]
+[03:28:16] [Server thread/INFO]: Sebas23m lost connection: Disconnected
+[03:28:16] [Server thread/INFO]: Sebas23m left the game
+[03:28:20] [User Authenticator #16/INFO]: UUID of player Sebas23m is 05baa57d-e0e2-3245-950d-ef017ffd725d
+[03:28:21] [Server thread/INFO]: Sebas23m joined the game
+[03:28:21] [Server thread/INFO]: Sebas23m[/127.225.117.164:46537] logged in with entity id 93996 at ([world]11592.73455619915, 71.19137807428613, -3705.1391174530445)
