@@ -192,3 +192,16 @@
 [16:07:12] [User Authenticator #8/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
 [16:07:15] [Server thread/INFO]: Cami23m joined the game
 [16:07:15] [Server thread/INFO]: Cami23m[/127.225.117.164:42103] logged in with entity id 57077 at ([world]-17565.078104218268, 72.0, -4358.0313568916845)
+[16:11:22] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[16:11:22] [Server thread/INFO]: jp7806073 left the game
+[16:11:24] [User Authenticator #9/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[16:11:28] [Server thread/INFO]: jp7806073 joined the game
+[16:11:28] [Server thread/INFO]: jp7806073[/127.197.184.113:41599] logged in with entity id 58081 at ([world]11613.284617530226, 23.0, -3600.699999988079)
+[16:15:30] [Server thread/INFO]: jp7806073 lost connection: Disconnected
+[16:15:30] [Server thread/INFO]: jp7806073 left the game
+[16:15:44] [User Authenticator #10/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[16:16:12] [Server thread/INFO]: Connection closed during protocol change
+[16:16:12] [Server thread/INFO]: com.mojang.authlib.GameProfile@25a71888[id=68efd73e-a0cd-33f7-a574-2c7e5d7949df,name=jp7806073,properties={textures=[Property[name=textures, value=eyJ0aW1lc3RhbXAiOjE1ODU1MzYzMDYwMTMsInByb2ZpbGVJZCI6ImUzYjQ0NWM4NDdmNTQ4ZmI4YzhmYTNmMWY3ZWZiYThlIiwicHJvZmlsZU5hbWUiOiJNaW5pRGlnZ2VyVGVzdCIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGFhZWU2OGQzYjQ5OGViNzUzZjc1MzQ1ODEyNDk1OGYxN2E4OTc3MDNhMjNkODdlYmEzZDM0NzFhNTg1NDU0NCJ9fX0=, signature=qvcKSkct7ZX/4VNcG9qyyi9tu6/5pK0Kh2uHib+LzdlmpGGfZ1vx1K8llUwa94vCgJmYc13hApyZEbmJj6Vg3VevroHNQtBXybGBMs2V8XSwf+leTwPU6HPEaQfMerG1/5KKtJkBhWCfL3/rqOxJwKY0KscRkxPCPZJc4nVo/Hj1SlIcXSXyeqgY7n98mY0pUO3EeRSEUvJQgmlc00KaJ6RX6iPwuivbL1lGPfy2bBqpdwOnTX3tnO0BJX5TWYatlroCPtufzqYIkFp9KbGJMdrAZPn8Evp+6UrjCX+sKxH8wsmvls2AiBUkrA/30XyVT2Vs4hynwwoCIVIVcJiQeAwVJnpVoPyGP3Lj25aztwvZQGX6dekNB02rW500A7acLoBJ9te3qJUdsZMFi6V4KYgtzHhknixB7FgrbZyFlpgcg/ckjaVmhrDKLNd2u7BRgz6//jRh5XFicadAAsitpmJP1gzQ54LcSWHtrISvD+L0CHyh/9juDjpApu2F/E/FSaYBDdTmx2dEWMN/IE/xuTDPgdBUG1G/nR52llxxFqB8EukK/ypQAWfNfMqnOlggVW8H4kpSDdBMFC36hXaAFsuhfmbQw1Bx+G+DYT9tW9xeESQCIBS1/FevBLYMSqd0WLEd8t+ZNmJ8ULzdNYZQYD6KfnTn8sdMbC/AlhYG5zI=]]}] lost connection: Disconnected
+[16:16:14] [User Authenticator #10/INFO]: UUID of player jp7806073 is 68efd73e-a0cd-33f7-a574-2c7e5d7949df
+[16:16:17] [Server thread/INFO]: jp7806073 joined the game
+[16:16:17] [Server thread/INFO]: jp7806073[/127.197.184.113:34113] logged in with entity id 59531 at ([world]11564.419878307383, 22.0, -3607.739789275538)
