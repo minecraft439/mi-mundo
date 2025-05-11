@@ -58,3 +58,36 @@
 [00:23:53] [Server thread/INFO]: Sebas23m has made the advancement [The End?]
 [00:23:54] [Server thread/INFO]: Cami23m has made the advancement [The End?]
 [00:25:27] [Server thread/INFO]: STARTGAME has made the advancement [Acquire Hardware]
+[00:25:47] [Server thread/INFO]: STARTGAME has made the advancement [Isn't It Iron Pick]
+[00:25:58] [Server thread/INFO]: Cami23m was killed by Ender Dragon using magic
+[00:26:24] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[00:26:24] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[00:27:30] [Server thread/WARN]: STARTGAME moved too quickly! 4.551632304677495,1.2636770794188976,9.159321358526405
+[00:27:38] [Server thread/WARN]: STARTGAME moved too quickly! -14.557908594342186,16.043261493074027,11.956882332378552
+[00:29:05] [Server thread/INFO]: Cami23m was killed by Ender Dragon using magic
+[00:29:07] [Server thread/INFO]: STARTGAME was killed by Ender Dragon using magic
+[00:29:40] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[00:29:40] [Server thread/INFO]: [Sebas23m: Teleported 4 entities to Sebas23m]
+[00:30:09] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[00:30:09] [Server thread/INFO]: Cami23m has made the advancement [Suit Up]
+[00:30:09] [Server thread/INFO]: Cami23m has made the advancement [Isn't It Iron Pick]
+[00:30:27] [Server thread/INFO]: Cami23m was killed by Ender Dragon using magic
+[00:30:28] [Server thread/INFO]: STARTGAME was killed by Ender Dragon using magic
+[00:31:41] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[00:31:41] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[00:31:59] [Server thread/INFO]: Named entity Zombie['STARTGAME's Zombie'/25259, uuid='4c603e56-5a1c-4b9e-978e-e0304da44b5b', l='ServerLevel[world_the_end]', x=-0.66, y=59.00, z=-0.23, cpos=[-1, -1], tl=2207, v=true] died: STARTGAME's Zombie was slain by jp7806073
+[00:32:12] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[00:32:12] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[00:32:49] [Server thread/INFO]: jp7806073 was slain by Lvl 50 | Enderman
+[00:33:07] [Server thread/INFO]: Sebas23m issued server command: /tp jp7806073 Sebas23m
+[00:33:07] [Server thread/INFO]: [Sebas23m: Teleported jp7806073 to Sebas23m]
+[00:33:46] [Server thread/INFO]: STARTGAME was slain by Lvl 25 | Enderman
+[00:33:52] [Server thread/INFO]: Cami23m was killed by Ender Dragon using magic
+[00:33:56] [Server thread/INFO]: Sebas23m issued server command: /tp @a Sebas23m
+[00:33:56] [Server thread/INFO]: Attempt to teleport removed player Cami23m restricted
+[00:33:56] [Server thread/INFO]: [Sebas23m: Teleported 4 entities to Sebas23m]
+[00:34:25] [Server thread/INFO]: Named entity Zombie['Cami23m's Zombie'/26214, uuid='a577ea63-4f29-4e08-b83a-628648904b37', l='ServerLevel[world_the_end]', x=6.17, y=61.00, z=-5.22, cpos=[0, -1], tl=1569, v=true] died: Cami23m's Zombie was slain by Ender Dragon
+[00:35:12] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[00:35:12] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[00:35:32] [Server thread/INFO]: STARTGAME lost connection: Timed out
+[00:35:32] [Server thread/INFO]: STARTGAME left the game
