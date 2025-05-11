@@ -108,3 +108,48 @@
 [14:56:33] [User Authenticator #2/INFO]: UUID of player Cami23m is 4fa8fb20-2ad5-301e-b23d-5bbfe366640e
 [14:56:36] [Server thread/INFO]: Cami23m joined the game
 [14:56:36] [Server thread/INFO]: Cami23m[/127.225.117.164:40435] logged in with entity id 16954 at ([world]-17538.69999998808, 75.0, -4330.3823484387885)
+[14:59:42] [Server thread/INFO]: STARTGAME has made the advancement [Local Brewery]
+[15:05:05] [Server thread/INFO]: Cami23m has made the advancement [Take Aim]
+[15:05:49] [Server thread/INFO]: Cami23m was slain by Iron Golem ❤
+[15:07:58] [Server thread/INFO]: STARTGAME lost connection: Disconnected
+[15:07:58] [Server thread/INFO]: STARTGAME left the game
+[15:08:30] [Server thread/INFO]: Cami23m issued server command: /skin menu
+[15:08:32] [Folia Async Scheduler Thread #3/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[15:08:34] [User Authenticator #3/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[15:08:37] [Server thread/INFO]: STARTGAME joined the game
+[15:08:37] [Server thread/INFO]: STARTGAME[/127.2.240.168:37315] logged in with entity id 23666 at ([world]11589.692481004566, 70.0, -3703.7073213220415)
+[15:09:10] [Server thread/INFO]: Cami23m issued server command: /skin sonic
+[15:11:36] [Server thread/INFO]: Cami23m was slain by Iron Golem ❤
+[15:12:59] [Server thread/INFO]: STARTGAME lost connection: Timed out
+[15:12:59] [Server thread/INFO]: STARTGAME left the game
+[15:13:09] [User Authenticator #4/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[15:13:11] [Server thread/INFO]: STARTGAME joined the game
+[15:13:11] [Server thread/INFO]: STARTGAME[/127.2.240.168:57581] logged in with entity id 25721 at ([world]11590.65124086278, 69.9375, -3707.300000011921)
+[15:14:01] [Server thread/WARN]: Spruce Boat (vehicle of jp7806073) moved wrongly! 0.46428967601535365
+[15:16:37] [Server thread/INFO]: Cami23m has made the advancement [Not Today, Thank You]
+[15:16:53] [Server thread/INFO]: Cami23m was shot by Lvl 35 | Skeleton
+[15:17:41] [Server thread/INFO]: Sebas23m was slain by Lvl 38 | Spider
+[15:17:44] [Server thread/INFO]: Sebas23m was slain by Lvl 35 | Zombie
+[15:17:49] [Server thread/INFO]: Sebas23m was slain by Lvl 25 | Zombie
+[15:19:56] [Server thread/INFO]: Cami23m was slain by Lvl 35 | Zombie
+[15:21:03] [Server thread/INFO]: Cami23m was slain by Lvl 39 | Spider
+[15:22:06] [Server thread/INFO]: Cami23m was doomed to fall by Creeper
+[15:24:14] [Server thread/INFO]: Made Sebas23m a server operator
+[15:24:25] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m Cami23m
+[15:24:25] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to Cami23m]
+[15:24:46] [Server thread/INFO]: Cami23m hit the ground too hard
+[15:25:01] [Server thread/INFO]: Cami23m was slain by Lvl 35 | Zombie
+[15:25:19] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[15:25:19] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[15:25:35] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17546.0 71 -4358.0
+[15:25:35] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17546.000000, 71.000000, -4358.000000]
+[15:26:41] [Server thread/INFO]: Sebas23m issued server command: /tp STARTGAME Sebas23m
+[15:26:41] [Server thread/INFO]: [Sebas23m: Teleported STARTGAME to Sebas23m]
+[15:26:42] [Server thread/INFO]: Cami23m was slain by Lvl 30 | Zombie
+[15:27:44] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[15:27:44] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[15:27:50] [User Authenticator #5/INFO]: UUID of player jhonwuyck722 is 22f109f5-0b6d-34a0-824b-497aa73b1c40
+[15:27:52] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m STARTGAME
+[15:27:52] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to STARTGAME]
+[15:27:53] [Server thread/INFO]: jhonwuyck722 joined the game
+[15:27:53] [Server thread/INFO]: jhonwuyck722[/127.197.184.113:59705] logged in with entity id 41357 at ([world]4.5, 84.0, 39.5)
