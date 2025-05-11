@@ -719,6 +719,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-05-11 01:28:39 +0000",
       "minecraft:skeleton": "2025-05-07 00:29:33 +0000",
       "minecraft:enderman": "2025-05-11 00:27:39 +0000",
       "minecraft:spider": "2025-05-07 01:11:38 +0000",
@@ -2221,6 +2222,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2025-05-11 01:10:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-11 01:29:33 +0000"
     },
     "done": true
   },

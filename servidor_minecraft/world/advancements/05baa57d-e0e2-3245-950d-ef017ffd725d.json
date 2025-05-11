@@ -2622,5 +2622,11 @@
     },
     "done": true
   },
+  "minecraft:end/enter_end_gateway": {
+    "criteria": {
+      "entered_end_gateway": "2025-05-11 01:32:30 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }

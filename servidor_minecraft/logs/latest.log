@@ -261,3 +261,65 @@
 [01:25:51] [Server thread/INFO]: STARTGAME joined the game
 [01:25:51] [Server thread/INFO]: STARTGAME[/127.2.240.168:38679] logged in with entity id 42834 at ([world]11522.683572668619, 62.110764312744145, -3207.2667509326343)
 [01:26:16] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17586.0 71 -4308.0
+[01:26:40] [Server thread/INFO]: Made Sebas23m a server operator
+[01:26:52] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17631.0 102 -4180.0
+[01:26:52] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17631.000000, 102.000000, -4180.000000]
+[01:26:59] [Server thread/INFO]: STARTGAME lost connection: Timed out
+[01:26:59] [Server thread/INFO]: STARTGAME left the game
+[01:27:00] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17553.0 72 -4356.0
+[01:27:00] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17553.000000, 72.000000, -4356.000000]
+[01:27:12] [User Authenticator #9/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[01:27:16] [Server thread/INFO]: STARTGAME joined the game
+[01:27:16] [Server thread/INFO]: STARTGAME[/127.2.240.168:52587] logged in with entity id 43663 at ([world]11518.482129701832, 62.500755311235395, -3207.9695472475187)
+[01:27:18] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[01:27:18] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[01:27:53] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17702.0 126 -3802.0
+[01:27:53] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17702.000000, 126.000000, -3802.000000]
+[01:28:04] [Server thread/INFO]: Cami23m was shot by Lvl 32 | Skeleton
+[01:28:04] [Server thread/INFO]: STARTGAME lost connection: Disconnected
+[01:28:04] [Server thread/INFO]: STARTGAME left the game
+[01:28:24] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -1.0 64 241.0
+[01:28:24] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -1.000000, 64.000000, 241.000000]
+[01:28:32] [Server thread/INFO]: Sebas23m fell out of the world
+[01:28:42] [User Authenticator #10/INFO]: UUID of player STARTGAME is fa4da132-c81a-3b38-820a-f18b9a409675
+[01:28:44] [Server thread/INFO]: STARTGAME joined the game
+[01:28:44] [Server thread/INFO]: STARTGAME[/127.2.240.168:47585] logged in with entity id 44850 at ([world]11518.482129701832, 62.01159593478984, -3207.9695472475187)
+[01:28:53] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17706.0 119 -3804.0
+[01:28:53] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17706.000000, 119.000000, -3804.000000]
+[01:29:33] [Server thread/INFO]: jp7806073 has made the advancement [Voluntary Exile]
+[01:30:25] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -18.0 61 -24.0
+[01:30:25] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -18.000000, 61.000000, -24.000000]
+[01:30:38] [Server thread/WARN]: Spruce Boat (vehicle of STARTGAME) moved wrongly! 2.8336547476626617
+[01:30:43] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[01:30:43] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
+[01:30:51] [Server thread/INFO]: Sebas23m issued server command: /deop Sebas23m
+[01:30:51] [Server thread/INFO]: [Sebas23m: Made Sebas23m no longer a server operator]
+[01:31:35] [Server thread/WARN]: Spruce Boat (vehicle of STARTGAME) moved wrongly! 18.985898035460302
+[01:32:21] [Server thread/INFO]: Cami23m drowned
+[01:32:30] [Server thread/INFO]: Sebas23m has made the advancement [Remote Getaway]
+[01:32:59] [Async Chat Thread - #2/INFO]: [Not Secure] <jp7806073> be q yo me hago qui
+[01:33:13] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -2185.0 96 -666.0
+[01:33:20] [Server thread/INFO]: jp7806073 issued server command: /msg STARTGAME es q la
+[01:33:26] [Server thread/INFO]: Made Sebas23m a server operator
+[01:33:33] [Server thread/INFO]: jp7806073 issued server command: /r nieve
+[01:33:36] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -2183.0 94 -670.0
+[01:33:36] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -2183.000000, 94.000000, -670.000000]
+[01:33:40] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -2195.0 64 -592.0
+[01:33:40] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -2195.000000, 64.000000, -592.000000]
+[01:33:45] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -2150.0 61 -595.0
+[01:33:45] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -2150.000000, 61.000000, -595.000000]
+[01:33:49] [Server thread/INFO]: Sebas23m fell out of the world
+[01:34:02] [Server thread/INFO]: Sebas23m issued server command: /gamemode creative
+[01:34:02] [Server thread/INFO]: [Sebas23m: Set own game mode to Creative Mode]
+[01:34:19] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17559.0 71 -4346.0
+[01:34:19] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17559.000000, 71.000000, -4346.000000]
+[01:34:25] [Server thread/INFO]: Sebas23m issued server command: /tp Cami23m Sebas23m
+[01:34:25] [Server thread/INFO]: [Sebas23m: Teleported Cami23m to Sebas23m]
+[01:34:39] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -17701.5 38 -3795.5
+[01:34:39] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -17701.500000, 38.000000, -3795.500000]
+[01:35:02] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m -2196.0 63 -624.0
+[01:35:02] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to -2196.000000, 63.000000, -624.000000]
+[01:35:40] [Server thread/INFO]: Sebas23m issued server command: /tp Sebas23m 12.0 60 -24.0
+[01:35:40] [Server thread/INFO]: [Sebas23m: Teleported Sebas23m to 12.000000, 60.000000, -24.000000]
+[01:36:25] [Server thread/INFO]: Sebas23m issued server command: /gamemode survival
+[01:36:25] [Server thread/INFO]: [Sebas23m: Set own game mode to Survival Mode]
